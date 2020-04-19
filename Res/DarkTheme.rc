@@ -1,0 +1,27 @@
+DarkThemeIcon ICON "Res\DarkTheme.ico"
+1 VERSIONINFO
+FILEVERSION 1,0,0,0
+PRODUCTVERSION 1,0,0,0
+FILEOS 0x4
+FILETYPE 0x0
+{
+BLOCK "StringFileInfo"
+{
+	BLOCK "040904b0"
+	{
+		VALUE "FileDescription", "MyTDT Dark Theme Plugin for Notepad++ by Mysoft"
+		VALUE "FileVersion", "1.0.0 Unicode"
+		VALUE "InternalName", "DarkTheme"
+		VALUE "LegalCopyright", "Copyright (C) 2020"
+		VALUE "OriginalFilename", "DarkTheme.dll"
+		VALUE "ProductName", "MyTDT DarkTheme"
+		VALUE "ProductVersion", "1.0.0"
+	}
+}
+
+BLOCK "VarFileInfo"
+{
+	VALUE "Translation", 0x0409 0x04B0
+}
+}
+
